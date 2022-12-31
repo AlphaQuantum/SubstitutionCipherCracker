@@ -1,6 +1,7 @@
 # Substitution Cipher Cracker
 
 This is a simple Windows Forms application that helps you crack a message that has been encrypted using the substitution cipher, even if you do not know the key. It is not perfect and does not work completely autonomously, but it can speed up the time it takes to crack the message.
+>Note: This software works with italian sentences
 
 ### Technologies Used:
 C# is a popular programming language that is commonly used for building Windows applications. It is an object-oriented language that is easy to learn and has a large developer community.
